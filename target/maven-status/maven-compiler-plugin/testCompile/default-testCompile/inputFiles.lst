@@ -1,0 +1,12 @@
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\pageObjects\AccountRegisterationPage.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\pageObjects\BasePage.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\pageObjects\HomePage.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\pageObjects\LoginPage.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\testBase\BaseClass.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\testCases\TC_001AccountRegisterationTest.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\testCases\TC_002LoginTest.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\testCases\TC_003LoginDDT.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\utilities\DataProviders.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\utilities\ExcelUtility.java
+C:\Users\Dell\eclipse-workspace\EcomOCv144\src\test\java\utilities\ExtentReportManager.java

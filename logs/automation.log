@@ -1,0 +1,14 @@
+09:38:29.728 [main] INFO  testCases.TC_002LoginTest - Starting TC_002LoginTest
+09:38:32.327 [main] INFO  testCases.TC_002LoginTest - Finished TC_002LoginTest
+10:02:19.265 [main] INFO  testCases.TC_001AccountRegisterationTest - Starting TC_001AccountRegisterationTest
+10:02:20.483 [main] INFO  testCases.TC_001AccountRegisterationTest - Providing the user details
+10:02:22.397 [main] INFO  testCases.TC_001AccountRegisterationTest - Validating the expected message
+10:02:22.477 [main] INFO  testCases.TC_001AccountRegisterationTest - Finished TC_001AccountRegisterationTest
+10:02:25.408 [main] INFO  testCases.TC_002LoginTest - Starting TC_002LoginTest
+10:02:27.303 [main] INFO  testCases.TC_002LoginTest - Finished TC_002LoginTest
+13:39:03.969 [main] INFO  testCases.TC_001AccountRegisterationTest - Starting TC_001AccountRegisterationTest
+13:39:07.115 [main] INFO  testCases.TC_001AccountRegisterationTest - Providing the user details
+13:39:09.366 [main] INFO  testCases.TC_001AccountRegisterationTest - Validating the expected message
+13:39:09.443 [main] INFO  testCases.TC_001AccountRegisterationTest - Finished TC_001AccountRegisterationTest
+13:39:12.231 [main] INFO  testCases.TC_002LoginTest - Starting TC_002LoginTest
+13:39:14.439 [main] INFO  testCases.TC_002LoginTest - Finished TC_002LoginTest
